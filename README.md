@@ -1,25 +1,6 @@
 # Assignments
 
-## Suggested weekly flow
-
-Fri - session - clone + read assignment code
-weekend
-
----
-
-Mon --> (multiple commits permitted)
-
-Tue --> commit 'at least / latest' by EoD
-
----
-
-Wed --> Latest commit will be picked for review
-
-Wed + Thu --> rework or respond
-
----
-
-Fri - session / recap + next
+These assignments are designed to build habits and produce reliable, maintainable code.
 
 ## Try It
 
